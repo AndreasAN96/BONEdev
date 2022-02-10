@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BONEdev/static/css/main.03239be2.css",
+    "main.js": "/BONEdev/static/js/main.12d43dd2.js",
+    "static/media/f5.png": "/BONEdev/static/media/f5.350b87bd6c8622e7af18.png",
+    "static/media/ecom1.jpg": "/BONEdev/static/media/ecom1.623ed4e5e435bbbb0d87.jpg",
+    "static/media/f1.png": "/BONEdev/static/media/f1.7d77ac2fb2da1c7bfe37.png",
+    "static/media/f2.png": "/BONEdev/static/media/f2.ab0ea5402c8f8fa3300a.png",
+    "static/media/f3.png": "/BONEdev/static/media/f3.3c5883b05b0dac5b4cd5.png",
+    "static/media/ecom2.jpg": "/BONEdev/static/media/ecom2.0a0207ac886fcfbf9adb.jpg",
+    "static/media/f4.png": "/BONEdev/static/media/f4.6bc353a4b18714f1da83.png",
+    "static/media/mysql.png": "/BONEdev/static/media/mysql.4d70650a42752fd3616c.png",
+    "static/media/ecom3.jpg": "/BONEdev/static/media/ecom3.f24da1b1be7d1586c247.jpg",
+    "static/media/css.png": "/BONEdev/static/media/css.706330d272d7dd665ff7.png",
+    "static/media/php.png": "/BONEdev/static/media/php.029374a3097c6eea6eb3.png",
+    "static/media/html-5.png": "/BONEdev/static/media/html-5.8c6024493715d2bfdae3.png",
+    "static/media/js.png": "/BONEdev/static/media/js.511d13173ace43bebfad.png",
+    "static/media/figma.png": "/BONEdev/static/media/figma.6c5d9f358de14df722ae.png",
+    "index.html": "/BONEdev/index.html",
+    "main.03239be2.css.map": "/BONEdev/static/css/main.03239be2.css.map",
+    "main.12d43dd2.js.map": "/BONEdev/static/js/main.12d43dd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03239be2.css",
+    "static/js/main.12d43dd2.js"
+  ]
+}
